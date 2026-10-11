@@ -97,5 +97,4 @@ High performance on synthetic data must not be interpreted as evidence of clinic
 
 ## Author
 
-**Vaishnavi**  
-M.Sc. Biotechnology | Computational Biology | Bioinformatics | Machine Learning for Biomedical Research
+
